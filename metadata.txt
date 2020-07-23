@@ -12,7 +12,7 @@ version=2.2.2
 qgisMinimumVersion=3.0
 
 # tags are comma separated with spaces allowed
-tags=stats,analysis,pivot table
+tags=statistics,analysis,pivot table
 category=Vector
 
 homepage=https://github.com/HenrikSpa/GroupStats
